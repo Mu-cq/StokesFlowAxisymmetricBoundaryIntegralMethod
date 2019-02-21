@@ -1,0 +1,1 @@
+%draw exact magnetic droplet steady shape numerically, Campas et al.
