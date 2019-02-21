@@ -1,0 +1,2 @@
+# StokesFlowAxisymmetricBoundaryIntegralMethod
+Compute the motion of droplets and particles in Stokes flows in axisymmetric domains using the Boundary Element Method (BEM) or the Spectral Boundary Integral Method (SBIM). The code is written in MATLAB with some possibility to use pre-compiled c-fuctions. The code includes: direct numerical simulations (DNS) with time stepping, Newton method, Continuation Method, Linear Stability Analysis and Edge Tracking Method.
